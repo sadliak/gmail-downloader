@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# Jetbrains Gogland files
+.idea/
+
+# Client Secret
+resources/client_secret.json
