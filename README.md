@@ -2,7 +2,7 @@
 A simple CLI tool to interact with Gmail API and download email messages.
 
 ## Quickstart
-You should turn on Gmail API and prepare your workspace to be able to use this tool.
+To use this tool you need to turn on Gmail API, create *client_secret.json* and put it into *resources* directory.
 
 Follow the great [tutorial](https://developers.google.com/gmail/api/quickstart/go) by Google to do so.
 
